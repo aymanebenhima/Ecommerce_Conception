@@ -1,0 +1,16 @@
+{
+    "name": "aymane/ecommerce_db",
+    "autoload": {
+        "psr-4": {
+            "Config\\": "config/",
+            "Models\\": "models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aymane Benhima",
+            "email": "aymanebenhima@gmail.com"
+        }
+    ],
+    "require": {}
+}
